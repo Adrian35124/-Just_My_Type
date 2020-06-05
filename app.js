@@ -6,7 +6,7 @@ $(document).ready(function () {
     //     finish: null,
     //     numMistakes: 0
     // }
-
+    
   $("#keyboard-upper-container").hide();
   let charIndex = 0;
   let arrayIndex = 0;
